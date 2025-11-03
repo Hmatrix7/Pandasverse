@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+#note the sales_data.csv is excel sheet
 # In[69]:
 
 
