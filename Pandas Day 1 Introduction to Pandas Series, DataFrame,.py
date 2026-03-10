@@ -10,7 +10,7 @@ import pandas as pd
 # In[3]:
 
 
-# Series Example
+# Series Example in python
 s = pd.Series([10, 20, 30])
 print(s)
 
